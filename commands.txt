@@ -1,0 +1,19 @@
+adb wait-for-device devices
+ List of devices attached
+ somedevice-1234 device
+ someotherdevice-1234 device
+adb shell wm size
+adb shell wm size WxH
+
+adb logcat
+bin_SCRIPTS += gnome-shell-extension-tool gnome-shell-extension-prefs \
+	       gnome-shell-perf-tool
+EXTRA_DIST += gnome-shell-extension-tool.in gnome-shell-extension-prefs.in \
+	      gnome-shell-perf-tool.in
+void shell_op_cursor_vert_move(const struct shell *shell, s32_t delta)
+punctuation.definition.comment.shebang.shell",
+static int shell_exec_read_watch(shell_t *shell);
+source = "app_shell_resources.grd" SET(QT_GUI_SRCS** -- ++
+
+obj_sky/shell-base64.o: ../../apps/shell/shell-base64.c
+obj_sky/shell-base64.o: ../../apps/shell/shell-base64.c run ==++**
